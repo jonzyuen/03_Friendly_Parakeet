@@ -1,31 +1,24 @@
-# Weekly Challenge 03_Friendly_Parakeet
+# Password Generator
 
-Weekly Challenge 03 - Friendly Parakeet
 
-https://jonzyuen.github.io/03_Friendly_Parakeet
+## Description
+This is Password Generator, an app that will help you create a unique, safe password that fit your parameters.  
 
-AS AN employee with access to sensitive data
-I WANT to randomly generate a password that meets certain criteria
-SO THAT I can create a strong password that provides greater security
+## Table of Contents
+* [Installation](#installation)
+* [Credits](#credits)
+* [GitHub](#github)
+* [Questions](#questions)
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
+## Installation
+All you have to do is clone the repo, install the modules, start it up, and answer the questions.
 
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
+## Credits
+Jonathan Yuen
 
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
+## GitHub
+GitHub username: jonzyuen</br>
+GitHub repository: [https://github.com/jonzyuen/03_Friendly_Parakeet](https://github.com/jonzyuen/03_Friendly_Parakeet)
 
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+## Questions
+Email: jonzyuen@gmail.com
