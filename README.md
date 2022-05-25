@@ -18,7 +18,7 @@ Jonathan Yuen
 
 ## GitHub
 GitHub username: jonzyuen</br>
-GitHub repository: [https://github.com/jonzyuen/03_Friendly_Parakeet](https://github.com/jonzyuen/03_Friendly_Parakeet)
+GitHub repository: [https://github.com/jonzyuen/03_Friendly_Parakeet](https://github.com/jonzyuen/Random_Password_Generator)
 
 ## Questions
 Email: jonzyuen@gmail.com
